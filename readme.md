@@ -1,2 +1,1 @@
-hello world
-hello rosie
+rosie
